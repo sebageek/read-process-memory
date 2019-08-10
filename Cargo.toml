@@ -1,6 +1,6 @@
 [package]
 name = "benfred-read-process-memory"
-version = "0.1.4"
+version = "0.2.0"
 authors = ["Ted Mielczarek <ted@mielczarek.org>"]
 license = "MIT"
 description = "Read memory from another process."
